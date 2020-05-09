@@ -1,0 +1,17 @@
+﻿  TheCurse.cpp
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(183): warning 942: missing return statement at end of non-void function "Scr_LoadScript_Stub"
+  
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(199): warning 942: missing return statement at end of non-void function "G_GivePlayerWeapon_Stub"
+  
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(211): warning 942: missing return statement at end of non-void function "sub_6A765C_Stub"
+  
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(277): warning 942: missing return statement at end of non-void function "LiveStats_SetIntPlayerStatInternal_Stub"
+  
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(285): warning 942: missing return statement at end of non-void function "sub_6A6534_Stub"
+  
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(476,8): warning 1070: returning pointer to local variable
+  
+C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\T7ZMCurse\TheCurse.cpp(496,9): warning 1070: returning pointer to local variable
+  
+  T7ZMCurse.vcxproj -> C:\Users\PC User\Desktop\Menus\PS3\T7ZMCurse\PS3_Debug\T7ZMCurse.sprx
+  Cannot find the expected PRX Stub Library file: cellPrx_T7ZMCurse_stub.a

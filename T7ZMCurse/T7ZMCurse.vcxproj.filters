@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="structs.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TheCurse.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="hudelems.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="funcs.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="clients.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="server.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{053f0888-4a45-4c37-be2a-4c2ab56f81b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{20880103-de58-4d16-b03c-97ad7ffb4fb4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TheCurse.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="hudelems.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="funcs.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="clients.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="server.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
